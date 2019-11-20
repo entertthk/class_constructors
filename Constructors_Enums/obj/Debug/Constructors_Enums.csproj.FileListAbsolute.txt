@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\Constructors_Enums\Constructors_Enums\bin\Debug\Constructors_Enums.exe.config
+C:\Users\Laptop\Desktop\Constructors_Enums\Constructors_Enums\bin\Debug\Constructors_Enums.exe
+C:\Users\Laptop\Desktop\Constructors_Enums\Constructors_Enums\bin\Debug\Constructors_Enums.pdb
+C:\Users\Laptop\Desktop\Constructors_Enums\Constructors_Enums\obj\Debug\Constructors_Enums.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Constructors_Enums\Constructors_Enums\obj\Debug\Constructors_Enums.exe
+C:\Users\Laptop\Desktop\Constructors_Enums\Constructors_Enums\obj\Debug\Constructors_Enums.pdb

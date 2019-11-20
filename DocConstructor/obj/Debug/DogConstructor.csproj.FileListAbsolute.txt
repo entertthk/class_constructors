@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\Constructors_Enums\DocConstructor\bin\Debug\DocConstructor.exe.config
+C:\Users\Laptop\Desktop\Constructors_Enums\DocConstructor\bin\Debug\DocConstructor.exe
+C:\Users\Laptop\Desktop\Constructors_Enums\DocConstructor\bin\Debug\DocConstructor.pdb
+C:\Users\Laptop\Desktop\Constructors_Enums\DocConstructor\obj\Debug\DocConstructor.exe
+C:\Users\Laptop\Desktop\Constructors_Enums\DocConstructor\obj\Debug\DocConstructor.pdb
+C:\Users\Laptop\Desktop\Constructors_Enums\DocConstructor\obj\Debug\DogConstructor.csprojAssemblyReference.cache

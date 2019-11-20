@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\Constructors_Enums\taskList\bin\Debug\taskList.exe.config
+C:\Users\Laptop\Desktop\Constructors_Enums\taskList\bin\Debug\taskList.exe
+C:\Users\Laptop\Desktop\Constructors_Enums\taskList\bin\Debug\taskList.pdb
+C:\Users\Laptop\Desktop\Constructors_Enums\taskList\obj\Debug\taskList.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Constructors_Enums\taskList\obj\Debug\taskList.exe
+C:\Users\Laptop\Desktop\Constructors_Enums\taskList\obj\Debug\taskList.pdb
